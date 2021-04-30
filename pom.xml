@@ -37,7 +37,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.build.timestamp.format>dd/MM/yyyy</maven.build.timestamp.format>
         <build.timestamp>${maven.build.timestamp}</build.timestamp>
-        <org.springframework.version>5.2.1.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.9.RELEASE</org.springframework.version>
     </properties>
 
     <!-- =============================================================== -->
